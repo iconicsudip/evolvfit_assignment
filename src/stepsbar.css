@@ -1,0 +1,20 @@
+.stepsback{
+    width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: left;
+    flex-direction: row;
+}
+.stepsdetails{
+    display:flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content:center;
+    flex-direction:column;
+}
+.stepsbar{
+    width:60px;
+}

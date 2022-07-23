@@ -1,0 +1,14 @@
+.nuibar{
+    width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: left;
+    flex-direction: row;
+    margin-left: 2rem
+}
+.nuibarhov{
+    width:60px;
+    font-weight:900
+}

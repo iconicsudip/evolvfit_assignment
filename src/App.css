@@ -1,3 +1,7 @@
+body{
+  background: #1F2731;
+  font-family: 'Montserrat', sans-serif;
+}
 .App {
   text-align: center;
 }
@@ -23,11 +27,22 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+h4,h5,h6{
+  margin: 0;
+}
 .App-link {
   color: #61dafb;
 }
-
+.btn{
+  padding-top: 0;
+    padding-bottom: 0;
+    border-radius: 4px;
+    width: 30px;
+    border: none;
+    background: #101317;
+    color: white;
+    cursor: pointer;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
