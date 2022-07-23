@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/18acc283-cbde-4c74-b922-ebba10529b41/deploy-status)](https://app.netlify.com/sites/evolvfittask/deploys)
 
-#Demp picture of the task
+# Demp picture of the task
 ![Demo picture](https://github.com/iconicsudip/evolvfit_assignment/blob/master/demotask.png)
 Deployed Link is [here](https://evolvfittask.netlify.app/) for better understanding.
 
